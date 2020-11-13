@@ -1,2 +1,2 @@
-# first_repository
- This is my first repository
+# First_exercise_Treehouse
+ Random-Quote-Generator
